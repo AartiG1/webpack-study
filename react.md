@@ -1,0 +1,9 @@
+- React is a Library not a framework. Angular is Framework.
+- React is all about components/ container
+- 2 types of components 
+    - Functional Components - Stateless 
+    - Class based Components - Stateful
+- Props, state are keywords
+    - props are shared & used for communication between components
+    - state is never shared. belongs to a single component
+- create-react-app utility to create new react app
